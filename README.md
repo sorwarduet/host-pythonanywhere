@@ -1,0 +1,1 @@
+## How Django project host python anywhere
